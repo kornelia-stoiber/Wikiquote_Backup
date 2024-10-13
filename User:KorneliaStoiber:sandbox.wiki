@@ -1,0 +1,54 @@
+{|style="border: #93F4AD solid 1px; background: #CFFADE; text-align: center; height: 45; width: 45; padding: 0 1px 0 0; font-size: 14;"
+|-
+|abc
+|}
+
+{|style="border: #93F4AD solid 1px; background: #CFFADE; text-align: center; height: 45; width: 45; padding: 0 1px 0 0; font-size: 8;"
+|-
+|abc
+|}
+
+{{userbox
+| bodyclass     = <!--Adds an HTML class attribute to the entire template's HTML table, to allow for styling, emission of microformats, etc.-->
+| border-c      = #d0d0d0
+| border-s      = 1
+| float         = left
+| id            = en
+| id-a          = center
+| id-c          = #d0d0d0
+| id-fc         = black
+| id-h          = 45
+| id-lh         = 1.25em
+| id-op         = <!--id other CSS parameters-->
+| id-p          = 0 1px 0 0
+| id-s          = 14
+| id-w          = 45
+| info-class    = <!--Adds an HTML class attribute to the "info" HTML table-row, to allow for styling, emission of microformats, etc.-->
+| info          = test test test test
+| info-a        = left
+| info-c        = #e0e0e0
+| info-fc       = black
+| info-lh       = 1.25em
+| info-op       = <!--info other CSS parameters-->
+| info-p        = 0 4px 0 4px
+| info-s        = 8
+| nocat         = false
+}}
+
+{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
+|-
+|
+
+{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
+|-
+| '''[[Wikipedia:Babel|Babel user information]]'''
+|-
+| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://en.wikipedia.org/wiki/Category:User_de Deutsch] als [https://en.wikipedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://en.wikipedia.org/wiki/Category:User_en-5 professional] knowledge of [https://en.wikipedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://en.wikipedia.org/wiki/Category:User_es-1 básico] del [https://en.wikipedia.org/wiki/Category:User_es español].}}
+|-
+| <small>[https://en.wikipedia.org/wiki/Category:Wikipedians_by_language Users by language]</small>
+|-
+|}
+
+|}
