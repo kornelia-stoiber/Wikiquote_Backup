@@ -89,6 +89,9 @@ More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wi
 == References ==
 {{Reflist}}
 
+== Backups ==
+[https://en.wikipedia.org/wiki/Backups Backups] of the pages created with this [https://en.wikipedia.org/wiki/Wikiquote Wikiquote] account can be found in the [https://en.wikipedia.org/wiki/Github Github] repository [https://github.com/kornelia-stoiber/Wikiquote_Backup kornelia-stoiber/Wikiquote_Backup].
+
 == External links ==
 {{wikipedia|User:KorneliaStoiber}}
 {{commons|User:KorneliaStoiber}}
