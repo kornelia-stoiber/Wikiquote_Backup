@@ -1,4 +1,4 @@
-{| style="float: right; margin-left: 1em; margin-bottom: 1em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{| style="padding:0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[https://en.wikipedia.org/wiki/Wikipedian Wikipedian]</big>'''
 |-
@@ -20,14 +20,12 @@
 [https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
 [https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
 
-{| style="float: left; margin-right: 1em; margin-bottom: 1em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{| style="padding:0.3em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
 |-
 | {{#babel:de|en-4|es-1}}
 |}
-
-{{clear}}
 
 '''Books:''' This user is currently looking forward to the publication of the book [https://en.wikipedia.org/wiki/Patriot_(book) "Patriot: A Memoir"] by [https://en.wikipedia.org/wiki/Alexei_Navalny Alexei Navalny].
 
@@ -35,16 +33,23 @@
 
 '''Music:''' This user's favourite performance extracts are currently from the [https://en.wikipedia.org/wiki/Concerto_in_F_(Gershwin) Gershwin Concerto in F] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [https://en.wikipedia.org/wiki/Yuja_Wang Yuja Wang] and [https://en.wikipedia.org/wiki/Michael_Tilson_Thomas Michael Tilson Thomas] together with the [https://en.wikipedia.org/wiki/London_Symphony_Orchestra London Symphony Orchestra].
 
-More information is available on the [https://wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://wikipedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
+More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://en.wikipedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber] and on the [https://en.wikipedia.org/wiki/Wikimedia_Commons Wikimedia Commons] user page [https://commons.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
 
 {{clear}}
 {{Userpage}}
-{{clear}}
 
 == Quotes ==
 * [...] all the [...] [[Russians]] who oppose [[Vladimir Putin|Putin]] [...] now desperately need the support of the whole world, all good people.<br>''Original:'' They, like all the other [[Russians]] who oppose [[Vladimir Putin|Putin]], now desperately need the support of the whole world, all good people.<br>''Original:'' Им, как и всем другим выступающим против Путина россиянам, сейчас очень нужна поддержка всего мира, всех добрых людей.
-** [https://www.instagram.com/p/C66BIf7tbJc Yulia Navalnaya on Instagram (13 May 2024)]
-** [[Yulia Navalnaya]] on [[Wikiquote]]
+** [https://www.instagram.com/p/C66BIf7tbJc Yulia Navalnaya on Instagram (13 May 2024)].
+** [[Yulia Navalnaya]] on [[Wikiquote]].
+*** added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 17:03, 12 October 2024 (UTC)
+
+== Edits ==
+*Page: [[Yulia Navalnaya]], section: "Quotes"
+**added quote<br> [[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 17:03, 12 October 2024 (UTC)
+
+*Page: [[Alexei Navalny‎]], section: "External links"
+**added and structured external links<br> [[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 01:29, 13 October 2024 (UTC)
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
