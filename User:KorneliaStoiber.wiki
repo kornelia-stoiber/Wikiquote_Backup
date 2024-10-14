@@ -20,13 +20,6 @@
 [https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
 [https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
 
-{| style="padding:0.3em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
-|-
-| {{#babel:de|en-4|es-1}}
-|}
-
 '''Books:''' This user is currently looking forward to the publication of the book [https://en.wikipedia.org/wiki/Patriot_(book) "Patriot: A Memoir"] by [https://en.wikipedia.org/wiki/Alexei_Navalny Alexei Navalny].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [https://en.wikipedia.org/wiki/IBM_Research IBM Research].
