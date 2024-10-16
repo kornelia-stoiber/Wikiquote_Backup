@@ -1,12 +1,24 @@
 {| style="width: 310px; padding: 0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
 |-
-|style="text-align: center; vertical-align: center;" colspan=2 |'''<big>KorneliaStoiber</big>'''
+| style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedia:Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
 |-
 |style="text-align: center; vertical-align: center;" colspan=2 | [[File:Dew on grass Luc Viatour.jpg |frameless|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)]]<br>This user believes in [[Wikipedia:Organic_products|organic products]] and [[Wikipedia:Green_technology|green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
 |-
 | style="text-align: left; vertical-align: top;" | '''Born''' || [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
 |-
+| style="text-align: left; vertical-align: top;" | '''Pronouns''' || [[Wikipedia:She/her|she/her]]
+|-
 | style="text-align: left; vertical-align: top;" | '''Nationality''' || [[Wikipedia:Austrian|Austrian]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;location''' ||  [[Wikipedia:Vienna|Vienna]], [[Wikipedia:Austria|Austria]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Time zone''' || [[Wikipedia:UTC%2B01:00|CET (UTC+01:00)]],<br>[[Wikipedia:UTC%2B02:00|CEST (UTC+02:00)]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Wikipedia:Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2| '''Professional details'''
+|-
+| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
 |-
 | style="text-align: left; vertical-align: top;" | '''Education''' ||
 *[[Wikipedia:University_College_London|University College London]]
@@ -18,29 +30,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Awards''' || [https://ocg.at/fp-fh National IT Incentive Award Winner]
 |-
-| style="text-align: left; vertical-align: top;" | '''Website''' ||
-*[https://beacons.ai/kornelia.stoiber Homepage]
-*[https://facebook.com/kornelia.stoiber Facebook]
-*[https://x.com/KorneliaStoiber X.com]
-|}
-
-{| style="width: 310px; padding: 0.3em; float: right; clear: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
-|-
-| style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedia:Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
-|-
-| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
-|-
-| style="text-align: left; vertical-align: top;" | '''Pronouns''' || [[Wikipedia:She/her|she/her]]
-|-
-| style="text-align: left; vertical-align: top;" | '''Country''' || [[Wikipedia:Austria|Austria]]
-|-
-| style="text-align: left; vertical-align: top;" | '''Current&nbsp;location''' ||  [[Wikipedia:Vienna|Vienna]]
-|-
 | style="text-align: left; vertical-align: top;" | '''Languages''' || [[Wikipedia:English|English]], [[Wikipedia:German|German]], [[Wikipedia:Spanish|Spanish]]
-|-
-| style="text-align: left; vertical-align: top;" | '''Time zone''' || [[Wikipedia:UTC%2B01:00|CET (UTC+01:00)]],<br>[[Wikipedia:UTC%2B02:00|CEST (UTC+02:00)]]
-|-
-| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}} [[Wikipedia:UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small> <br>[[Wikipedia:Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}} [[Wikipedia:UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small>
 |-
 | style="text-align: center; vertical-align: center;" colspan=2 | '''Account statistics'''
 |-
@@ -48,7 +38,18 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 160+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 180+
+|-
+| style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
+|| [[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikiquote.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2| '''Contact details'''
+|-
+| style="text-align: left; vertical-align: top;" | '''Social&nbsp;media''' ||
+*[https://facebook.com/kornelia.stoiber Facebook]
+*[https://x.com/KorneliaStoiber X.com]
+|-
+| style="text-align: left; vertical-align: top;" | '''Website''' || [https://beacons.ai/kornelia.stoiber Homepage]
 |}
 
 '''Kornelia Stoiber''' is a [[Wikipedia:Computer_scientist|computer scientist]] from [[Wikipedia:Austria|Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[Wikipedia:Design|design]] and playing the [[Wikipedia:clarinet|clarinet]].<ref>{{Cite web
@@ -131,9 +132,9 @@
 {{commons|User:KorneliaStoiber}}
 *{{Wikipedia-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
+{{clear}}
 
 == User page ==
-{{clear}}
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
 |<small>'''This is a Wikiquote [[Wikipedia:Wikipedia:User_pages|user page]].'''</small>
 |-
