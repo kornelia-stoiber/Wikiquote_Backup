@@ -1,13 +1,57 @@
-{| style="padding:0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{| style="width: 310px; padding: 0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
 |-
-| '''<big>[https://en.wikipedia.org/wiki/Wikipedian Wikipedian]</big>'''
+|style="text-align: center; vertical-align: center;" colspan=2 |'''<big>KorneliaStoiber</big>'''
 |-
-| [[File:Dew on grass Luc Viatour.jpg |thumb|upright=200px|center|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)|This user believes in [https://en.wikipedia.org/wiki/Organic_products organic products] and [https://en.wikipedia.org/wiki/Green_technology green technology]. (Image: "[https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg dew on grass]" by [https://commons.wikimedia.org/wiki/User:Lviatour Luc Viatour])]]
+|style="text-align: center; vertical-align: center;" colspan=2 | [[File:Dew on grass Luc Viatour.jpg |frameless|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)]]<br>This user believes in [[Wikipedia:Organic_products|organic products]] and [[Wikipedia:Green_technology|green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
 |-
-| [[File:IBM Q system (Fraunhofer 2).jpg|thumb|upright=200px|center|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)|This user is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [https://en.wikipedia.org/wiki/IBM_Research IBM Research])]]
+| style="text-align: left; vertical-align: top;" | '''Born''' || [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
+|-
+| style="text-align: left; vertical-align: top;" | '''Nationality''' || [[Wikipedia:Austrian|Austrian]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Education''' ||
+*[[Wikipedia:University_College_London|University College London]]
+*[[Wikipedia:University_of_Hertfordshire|University of Hertfordshire]]
+*[[Wikipedia:Aalborg_University|Aalborg University]]
+*[[:de:Wikipedia:FH_Ober%C3%B6sterreich|University of Applied Sciences Upper Austria]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Occupation''' || [[Wikipedia:Computer_scientist|Computer Scientist]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Awards''' || [https://ocg.at/fp-fh National IT Incentive Award Winner]
+|-
+| style="text-align: left; vertical-align: top;" | '''Website''' ||
+*[https://beacons.ai/kornelia.stoiber Homepage]
+*[https://facebook.com/kornelia.stoiber Facebook]
+*[https://x.com/KorneliaStoiber X.com]
 |}
 
-'''Kornelia Stoiber''' is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist] from [https://en.wikipedia.org/wiki/Austria Austria] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [https://en.wikipedia.org/wiki/design design] and playing the [https://en.wikipedia.org/wiki/clarinet clarinet].<ref>{{Cite web
+{| style="width: 310px; padding: 0.3em; float: right; clear: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
+|-
+| style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedia:Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
+|-
+| style="text-align: left; vertical-align: top;" | '''Pronouns''' || [[Wikipedia:She/her|she/her]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Country''' || [[Wikipedia:Austria|Austria]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;location''' ||  [[Wikipedia:Vienna|Vienna]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Languages''' || [[Wikipedia:English|English]], [[Wikipedia:German|German]], [[Wikipedia:Spanish|Spanish]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Time zone''' || [[Wikipedia:UTC%2B01:00|CET (UTC+01:00)]],<br>[[Wikipedia:UTC%2B02:00|CEST (UTC+02:00)]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}} [[Wikipedia:UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small> <br>[[Wikipedia:Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}} [[Wikipedia:UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2 | '''Account statistics'''
+|-
+| style="text-align: left; vertical-align: top;" | '''Article&nbsp;count''' || 6+
+|-
+| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
+|-
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 150+
+|}
+
+'''Kornelia Stoiber''' is a [[Wikipedia:Computer_scientist|computer scientist]] from [[Wikipedia:Austria|Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[Wikipedia:Design|design]] and playing the [[Wikipedia:clarinet|clarinet]].<ref>{{Cite web
 |title=Kornelia Stoiber on Beacons
 |url=https://beacons.ai/kornelia.stoiber
 |access-date=2024-10-05
@@ -15,29 +59,30 @@
 |language=en
 |url-status=live}}</ref>
 
-'''Drafts:''' This user has created the [https://en.wikipedia.org/wiki/Wikipedia Wikipedia] drafts 
-[https://en.wikipedia.org/wiki/Draft:Wonderful_Drinks Draft:Wonderful Drinks], [https://en.wikipedia.org/wiki/Draft:Hummingbird_Bike Draft:Hummingbird Bike], [https://en.wikipedia.org/wiki/Draft:Ride_Colibri Draft:Ride Colibri], [https://en.wikipedia.org/wiki/Draft:Organifarms Draft:Organifarms],
-[https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
-[https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
+'''Drafts:''' This user has created the [[Wikipedia:Wikipedia|Wikipedia]] drafts 
+[[Wikipedia:Draft:Wonderful_Drinks|Draft:Wonderful Drinks]], [[Wikipedia:Draft:Hummingbird_Bike|Draft:Hummingbird Bike]], [[Wikipedia:Draft:Ride_Colibri|Draft:Ride Colibri]], [[Wikipedia:Draft:Organifarms|Draft:Organifarms]],
+[[Wikipedia:Draft:Organic_Batteries|Draft:Organic Batteries]] and 
+[[Wikipedia:Draft:Stalking_Safety|Draft:Stalking Safety]].
 
-'''Books:''' This user is currently looking forward to the publication of the book [https://en.wikipedia.org/wiki/Patriot_(book) "Patriot: A Memoir"] by [https://en.wikipedia.org/wiki/Alexei_Navalny Alexei Navalny].
+'''Books:''' This user is currently looking forward to the publication of the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
 
-'''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [https://en.wikipedia.org/wiki/IBM_Research IBM Research].
+'''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[Wikipedia:IBM_Research|IBM Research]].
 
-'''Music:''' This user's favourite performance extracts are currently from the [https://en.wikipedia.org/wiki/Concerto_in_F_(Gershwin) Gershwin Concerto in F] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [https://en.wikipedia.org/wiki/Yuja_Wang Yuja Wang] and [https://en.wikipedia.org/wiki/Michael_Tilson_Thomas Michael Tilson Thomas] together with the [https://en.wikipedia.org/wiki/London_Symphony_Orchestra London Symphony Orchestra].
+'''Music:''' This user's favourite performance extracts are currently from the [[Wikipedia:Concerto_in_F_(Gershwin)|Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Wikipedia:Yuja_Wang|Yuja Wang]] and [[Wikipedia:Michael_Tilson_Thomas|Michael Tilson Thomas]] together with the [[Wikipedia:London_Symphony_Orchestra|London Symphony Orchestra]].
 
-More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://en.wikipedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber] and on the [https://en.wikipedia.org/wiki/Wikimedia_Commons Wikimedia Commons] user page [https://commons.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
+More information is available on the [[Wikipedia:Wikipedia|Wikipedia]] user page [[Wikipedia:User:KorneliaStoiber|User:KorneliaStoiber]] and on the [[Wikipedia:Wikimedia_Commons|Wikimedia Commons]] user page [[Commons:User:KorneliaStoiber|User:KorneliaStoiber]].
 
 {{clear}}
 {|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
-|<small>'''This is a Wikiquote [[Wikipedia:Wikipedia:User_pages|user page]].'''<br>
-If you find this page on any site other than Wikiquote, you are viewing a [[Wikipedia:Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated, and that the user this page belongs to may have no personal affiliation with any site other than Wikiquote itself. The original page is located at [https://en.wikiquote.org/wiki/User:KorneliaStoiber https://en.wikiquote.org/wiki/User:KorneliaStoiber].</small>
+|<small>'''This is a Wikiquote [[Wikipedia:Wikipedia:User_pages|user page]].'''</small>
+|-
+|<small>If you find this page on any site other than Wikiquote, you are viewing a [[Wikipedia:Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated, and that the user this page belongs to may have no personal affiliation with any site other than Wikiquote itself. The original page is located at [[User:KorneliaStoiber#top|https://en.wikiquote.org/wiki/User:KorneliaStoiber]].</small>
 |}
 
 == Quotes ==
 * [...] all the [...] [[Russians]] who oppose [[Vladimir Putin|Putin]] [...] now desperately need the support of the whole world, all good people.<br>''Original:'' They, like all the other [[Russians]] who oppose [[Vladimir Putin|Putin]], now desperately need the support of the whole world, all good people.<br>''Original:'' Им, как и всем другим выступающим против Путина россиянам, сейчас очень нужна поддержка всего мира, всех добрых людей.
 ** [https://www.instagram.com/p/C66BIf7tbJc Yulia Navalnaya on Instagram (13 May 2024)].
-** [[Yulia Navalnaya]] on [[Wikiquote]].
+** [[Yulia Navalnaya]] on [[Wikipedia:Wikiquote|Wikiquote]].
 *** added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 17:03, 12 October 2024 (UTC)
 
 == Edits ==
@@ -86,7 +131,7 @@ If you find this page on any site other than Wikiquote, you are viewing a [[Wiki
 {{Reflist}}
 
 == Backups ==
-[https://en.wikipedia.org/wiki/Backups Backups] of the pages created with this [https://en.wikipedia.org/wiki/Wikiquote Wikiquote] account can be found in the [https://en.wikipedia.org/wiki/Github Github] repository [https://github.com/kornelia-stoiber/Wikiquote_Backup kornelia-stoiber/Wikiquote_Backup].
+[[Wikipedia:Backups|Backups]] of the pages created with this [[Wikipedia:Wikiquote|Wikiquote]] account can be found in the [[Wikipedia:Github|Github]] repository [https://github.com/kornelia-stoiber/Wikiquote_Backup kornelia-stoiber/Wikiquote_Backup].
 
 == External links ==
 {{wikipedia|User:KorneliaStoiber}}
