@@ -49,7 +49,7 @@
 *[https://facebook.com/kornelia.stoiber Facebook]
 *[https://x.com/KorneliaStoiber X.com]
 |-
-| style="text-align: left; vertical-align: top;" | '''Website''' || [https://beacons.ai/kornelia.stoiber Homepage]
+| style="text-align: left; vertical-align: top;" | '''Website''' || [https://beacons.ai/kornelia.stoiber beacons.ai/kornelia.stoiber]
 |}
 
 '''Kornelia Stoiber''' is a [[Wikipedia:Computer_scientist|computer scientist]] from [[Wikipedia:Austria|Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[Wikipedia:Design|design]] and playing the [[Wikipedia:clarinet|clarinet]].<ref>{{Cite web
