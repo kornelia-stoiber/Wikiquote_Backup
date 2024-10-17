@@ -38,7 +38,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 185+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,170+
 |-
 | style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
 || [[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikiquote.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
@@ -105,17 +105,19 @@
 •
 [https://www.behance.net/kornelia_stoiber Behance]
 •
-[https://dribbble.com/kornelia_stoiber Dribbble] 
+[https://www.dribbble.com/kornelia_stoiber Dribbble] 
 •
 [https://www.deviantart.com/KorneliaStoiber DeviantArt]
 •
 [https://www.flickr.com/photos/kornelia_stoiber Flickr]
 •
+[https://www.500px.com/p/kornelia_stoiber 500px]
+•
 [https://www.calameo.com/read/007135556b63298c9c71c Calaméo]
 •
 [https://www.medium.com/@kornelia.stoiber Medium]
 •
-[https://medium.com/@kornelia.stoiber.stalked Stalked]
+[https://www.medium.com/@kornelia.stoiber.stalked Stalked]
 •
 [https://www.github.com/kornelia-stoiber GitHub]
 •
