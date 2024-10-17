@@ -2,7 +2,7 @@
 |-
 | style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedia:Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
 |-
-|style="text-align: center; vertical-align: center;" colspan=2 | [[File:Dew on grass Luc Viatour.jpg |frameless|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)]]<br>This user believes in [[Wikipedia:Organic_products|organic products]] and [[Wikipedia:Green_technology|green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
+|style="text-align: center; vertical-align: center;" colspan=2 | [[File:Dew on grass Luc Viatour.jpg |frameless|alt=From the description: Macro shot of dew on grass. (https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)]]<br>This user believes in [[Wikipedia:Organic_products|organic products]] and [[Wikipedia:Green_technology|green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
 |-
 | style="text-align: left; vertical-align: top;" | '''Born''' || [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
 |-
@@ -18,7 +18,7 @@
 |-
 | style="text-align: center; vertical-align: center;" colspan=2| '''Professional details'''
 |-
-| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
+| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
 |-
 | style="text-align: left; vertical-align: top;" | '''Education''' ||
 *[[Wikipedia:University_College_London|University College London]]
