@@ -36,9 +36,9 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Article&nbsp;count''' || 6+
 |-
-| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
+| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 3+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,170+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,210+
 |-
 | style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
 || [[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikiquote.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
@@ -60,7 +60,7 @@
 |language=en
 |url-status=live}}</ref>
 
-'''Books:''' This user is currently looking forward to the publication of the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
+'''Books:''' This user is currently reading the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[Wikipedia:IBM_Research|IBM Research]].
 
@@ -69,10 +69,20 @@
 '''Infos:''' More information is available on the [[Wikipedia:Wikipedia|Wikipedia]] user page [[Wikipedia:User:KorneliaStoiber|User:KorneliaStoiber]] and on the [[Wikipedia:Wikimedia_Commons|Wikimedia Commons]] user page [[Commons:User:KorneliaStoiber|User:KorneliaStoiber]].
 
 == Quotes ==
-* [...] all the [...] [[Russians]] who oppose [[Vladimir Putin|Putin]] [...] now desperately need the support of the whole world, all good people.<br>''Original:'' They, like all the other [[Russians]] who oppose [[Vladimir Putin|Putin]], now desperately need the support of the whole world, all good people.<br>''Original:'' Им, как и всем другим выступающим против Путина россиянам, сейчас очень нужна поддержка всего мира, всех добрых людей.
+* [...] all the [...] [[Russians]] who oppose [[Vladimir Putin|Putin]] [...] now desperately need the support of the whole world, all good people.<br>''Original:'' They, like all the other [[Russians]] who oppose [[Vladimir Putin|Putin]], now desperately need the support of the whole world, all good people.<br>''Russian:'' Им, как и всем другим выступающим против Путина россиянам, сейчас очень нужна поддержка всего мира, всех добрых людей.
 ** [https://www.instagram.com/p/C66BIf7tbJc Yulia Navalnaya on Instagram (13 May 2024)].
 ** [[Yulia Navalnaya]] on [[Wikipedia:Wikiquote|Wikiquote]].
 *** added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 17:03, 12 October 2024 (UTC)
+
+* The important thing is not to torment yourself with anger, hatred, fantasies of revenge, but to move instantly to acceptance. That can be hard.<br>''Russian:'' Главное – не терзать себя гневом, ненавистью, и фантазиями о мести. А мгновенно прийти к принятию. Это может быть очень непросто.
+** Navalny, A. (2024). Patriot: A Memoir. United States: Knopf Doubleday Publishing Group. [https://www.google.at/books/edition/Patriot/vXr_EAAAQBAJ "Patriot: A Memoir" by Alexei Navalny on Google Books].<br>''Russian:'' Из книги Алексей Навальный "Патриот" (2024).
+** [[Alexei Navalny]] on [[Wikipedia:Wikiquote|Wikiquote]].
+*** added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 03:35, 28 October 2024 (UTC)
+
+* What are the chances that I'll survive this morning? I don't know; six out of ten? Eight out of ten? Maybe even ten out of ten? It's not that I'm trying not to think about it, closing my eyes and pretending the danger doesn't exist. But one day I simply made the decision not to be afraid. I weighed everything up, understood where I stand – and let it go.<br>''Russian:'' Какие шансы у меня выжить сегодня утром? Не знаю: шесть из десяти или восемь из десяти. А может, и всё десять, Дело не в том что я стараюсь об этом не думать, зажмуриваюсь и делаю вид, что опасности не существует, – просто однажды я принял решени не бояться. Я всё взвесил, понял и отпустил.
+** Navalny, A. (2024). Patriot: A Memoir. United States: Knopf Doubleday Publishing Group. [https://www.google.at/books/edition/Patriot/vXr_EAAAQBAJ "Patriot: A Memoir" by Alexei Navalny on Google Books].<br>''Russian:'' Из книги Алексей Навальный "Патриот" (2024).
+** [[Alexei Navalny]] on [[Wikipedia:Wikiquote|Wikiquote]].
+*** added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 06:00, 28 October 2024 (UTC)
 
 == Edits ==
 *Page: [[Yulia Navalnaya]], section: "Quotes"
@@ -80,6 +90,24 @@
 
 *Page: [[Alexei Navalny‎]], section: "External links"
 **added and structured external links<br> [[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 01:29, 13 October 2024 (UTC)
+
+*Page: [[Alexei Navalny]], section: "Quotes"
+**added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 03:35, 28 October 2024 (UTC)
+
+*Page: [[Yulia Navalnaya]], section: "Quotes"
+**copyedit<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 04:00, 28 October 2024 (UTC)
+
+*Page: [[Alexei Navalny]], section: "Quotes"
+**copyedit<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 05:11, 28 October 2024 (UTC)
+
+*Page: [[Alexei Navalny]], section: "Quotes"
+**added quote<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 06:00, 28 October 2024 (UTC)
+
+*Page: [[Alexei Navalny]], section: "Quotes"
+**copyedit<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 06:25, 28 October 2024 (UTC)
+
+*Page: [[Alexei Navalny]], section: "Quotes"
+**copyedit<br>[[User:KorneliaStoiber#top|KorneliaStoiber]] ([[User talk:KorneliaStoiber#top|talk]]) 06:28, 28 October 2024 (UTC)
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]&nbsp;•
@@ -112,7 +140,6 @@
 {{commons|User:KorneliaStoiber}}
 *{{Wikipedia-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
-{{clear}}
 
 == User page ==
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
