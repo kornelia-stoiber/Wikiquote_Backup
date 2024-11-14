@@ -38,7 +38,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 3+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,210+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,215+
 |-
 | style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
 || [[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikiquote.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
