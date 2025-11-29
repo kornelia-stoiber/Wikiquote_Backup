@@ -148,12 +148,14 @@
 
 == Backups ==
 [[Wikipedia:Backups|Backups]] of the pages created with this [[Wikipedia:Wikiquote|Wikiquote]] account can be found in the [[Wikipedia:Github|Github]] repository [https://github.com/kornelia-stoiber/Wikiquote_Backup kornelia-stoiber/Wikiquote_Backup].
+{{clear}}
 
 == External links ==
 {{wikipedia|User:KorneliaStoiber}}
 {{commons|User:KorneliaStoiber}}
 *{{Wikipedia-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
+{{clear}}
 
 == User page ==
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
